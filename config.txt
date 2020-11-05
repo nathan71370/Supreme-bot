@@ -5,18 +5,18 @@ size = Large
 category = sweatshirts
 
 [USERINFO]
-name = Mercier Nathan
-email = nathanmercier@orange.fr
-phone = 0652888299
-adress = 89 route de Colombey
-city = Ouroux sur saone
-zip = 71370
+name = FirstName LastName
+email = email@email.email
+phone = 0123456789
+adress = 13 avenue de paris
+city = Paris
+zip = 93000
 country = FRANCE
 
 
 [BILLING]
 card_type = visa
-number = 4976538954627957
-month = 03
-year = 2022
-cvv = 784
+number = 1234567891047856
+month = 05
+year = 2025
+cvv = 420
