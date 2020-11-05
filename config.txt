@@ -1,0 +1,22 @@
+[ITEM]
+name = Spray Hooded Sweatshirt
+color = Orange
+size = Large
+category = sweatshirts
+
+[USERINFO]
+name = Mercier Nathan
+email = nathanmercier@orange.fr
+phone = 0652888299
+adress = 89 route de Colombey
+city = Ouroux sur saone
+zip = 71370
+country = FRANCE
+
+
+[BILLING]
+card_type = visa
+number = 4976538954627957
+month = 03
+year = 2022
+cvv = 784
